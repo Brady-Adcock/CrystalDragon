@@ -5,4 +5,7 @@
     <string name="disconnect_button">Disconnect</string>
     <string name="connecting_toast">connecting...</string>
     <string name="disconnecting_toast">disconnecting...</string>
+    <string name="Datapoint01">Give me a name</string>
+    <string name="Datapoint02">Give me a number</string>
+
 </resources>
